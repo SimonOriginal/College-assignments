@@ -1,5 +1,5 @@
 #   Simon Bezruhenko
-#   https://github.com/SimonW0rk
+#   https://github.com/SimonOriginal
 
 import math
 

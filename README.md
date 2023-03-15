@@ -10,3 +10,7 @@
 Как работает скрин решения 
 
 ![изображение](https://user-images.githubusercontent.com/94782611/220895482-6faa6ea9-f2df-4712-aee8-e741ba86fe46.png)
+
+Операции над векторами 
+
+![изображение](https://user-images.githubusercontent.com/94782611/225284434-744a6222-96ed-4f5a-a5cd-207d6fecd90d.png)

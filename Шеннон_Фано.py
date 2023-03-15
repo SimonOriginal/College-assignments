@@ -1,5 +1,4 @@
-#   Simon Bezruhenko
-#   https://github.com/SimonW0rk
+#   https://github.com/SimonOriginal
 #   Решение задачи в Python!
 #   Значення ймовірностей p^i, з якими дискретне джерело інформації генерує
 #   символи алфавіту, для різних варіантів наведені у списку: "probabilities"

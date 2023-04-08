@@ -14,3 +14,5 @@
 Операции над векторами 
 
 ![изображение](https://user-images.githubusercontent.com/94782611/225284434-744a6222-96ed-4f5a-a5cd-207d6fecd90d.png)
+
+![изображение](https://user-images.githubusercontent.com/94782611/230731067-a291466a-ec3c-4a7a-8447-e5c1f041f62a.png)

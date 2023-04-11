@@ -43,7 +43,7 @@ for word, count in sorted_words:
 
 # сохранение результатов в файл формата JSON
 with open("result.json", "w", encoding="utf-8") as file:
-    json.dump(data, file, ensure_ascii=False)
+    json.dump(data, file, indent = 4, ensure_ascii=False)
 
 print("Результаты сохранены в файле result.json")
 input()
